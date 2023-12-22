@@ -5,12 +5,13 @@ This repository contains the HTML code for the official webpage of Tax Free Club
 
 Key Features:</br>
 
-Loading Screen: A visually engaging loading screen is implemented with the TFC logo and a welcoming message, providing a smooth transition to the main content.</br>
-Main Content: The main content is initially hidden and revealed after a simulated loading delay, creating a visually pleasing user experience.</br>
-Navigation: The webpage includes a navigation bar with the TFC logo and links to external platforms such as Instagram and Discord.</br>
-Promotional Content: The left column of the webpage contains a bold heading, a descriptive subtitle, and a motivational message. The right column includes space for images, potentially showcasing relevant content.</br>
-Call-to-Action: A "Begin" button encourages users to start a challenge or engage with the content. The button triggers a function to open a Discord invite.</br>
-Footer: A fixed footer at the bottom of the webpage includes a copyright notice for TFC in the year 2023.</br>
+**Loading Screen**: A visually engaging loading screen is implemented with the TFC logo and a welcoming message, providing a smooth transition to the main content.</br>
+**Main Content**: The main content is initially hidden and revealed after a simulated loading delay, creating a visually pleasing user experience.</br>
+**Navigation**: The webpage includes a navigation bar with the TFC logo and links to external platforms such as Instagram and Discord.</br>
+**Promotional Content**: The left column of the webpage contains a bold heading, a descriptive subtitle, and a motivational message. The right column includes space for images, potentially showcasing relevant content.</br>
+**Call-to-Action**: A "Begin" button encourages users to start a challenge or engage with the content. The button triggers a function to open a Discord invite.</br>
+**Footer**: A fixed footer at the bottom of the webpage includes a copyright notice for TFC in the year 2023.</br>
+
 External Dependencies:</br>
 
 The webpage utilizes the Tailwind CSS framework for styling.</br>
