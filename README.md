@@ -1,20 +1,19 @@
-# TFC-LP
-Tax Free Club (TFC) Webpage</br>
+# TFC-LP - Tax Free Club Webpage
 
-This repository contains the HTML code for the official webpage of Tax Free Club, a project or website that promotes a challenge or initiative aimed at self-improvement and personal development. The webpage seems to have a dynamic and visually appealing design, featuring animations, responsive elements, and integration with external platforms such as Instagram and Discord.</br>
+This repository contains HTML code for Tax Free Club's official webpage v 1.0, the club is about self-improvement and personal development. The webpage has dynamic design features, animations, responsiveness.
 
-Key Features:</br>
+## Key Features
 
-**Loading Screen**: A visually engaging loading screen is implemented with the TFC logo and a welcoming message, providing a smooth transition to the main content.</br>
-**Main Content**: The main content is initially hidden and revealed after a simulated loading delay, creating a visually pleasing user experience.</br>
-**Navigation**: The webpage includes a navigation bar with the TFC logo and links to external platforms such as Instagram and Discord.</br>
-**Promotional Content**: The left column of the webpage contains a bold heading, a descriptive subtitle, and a motivational message. The right column includes space for images, potentially showcasing relevant content.</br>
-**Call-to-Action**: A "Begin" button encourages users to start a challenge or engage with the content. The button triggers a function to open a Discord invite.</br>
-**Footer**: A fixed footer at the bottom of the webpage includes a copyright notice for TFC in the year 2023.</br>
+- **Loading Screen:** Engaging TFC logo and message for a smooth transition.
+- **Main Content:** Revealed after simulated loading delay, enhancing user experience.
+- **Navigation:** TFC logo and links to Instagram and Discord.
+- **Promotional Content:** Bold heading, subtitle, motivational message, and space for relevant images.
+- **Call-to-Action:** "Begin" button prompts user engagement and opens a Discord invite.
+- **Footer:** Fixed at the bottom with a copyright notice for TFC in 2023.
 
-External Dependencies:</br>
+## External Dependencies
 
-The webpage utilizes the Tailwind CSS framework for styling.</br>
-Animation effects are achieved through custom CSS keyframes.</br>
-External fonts (Source Sans Pro) and external libraries (e.g., Discord and Instagram icons) are referenced.</br>
-The loading delay is simulated using JavaScript.
+- Tailwind CSS for styling.
+- Custom CSS keyframes for animation effects.
+- External fonts (Source Sans Pro) and libraries (e.g., Discord and Instagram icons).
+- JavaScript simulates loading delay.
